@@ -1,5 +1,5 @@
-# LIPIDS
-**[LIPIDS: Learning-based Illumination Planning In Discretized(Light) Space for Photomertic Stereo)](https://arxiv.org/abs/2409.02716)**,
+# LIPID
+**[LIPIDS: Learning-based Illumination Planning In Discretized(Light) Space for Photomertic Stereo](https://arxiv.org/abs/2409.02716)**,
 
 
 This paper addresses the problem of finding best light directions for photometric stereo backbones in discretized light space.
