@@ -41,4 +41,4 @@ python get_configs.py {path to your trained model}
 ## Citation
 If you find this project useful please cite:
 
-Tiwari, Ashish, Mihir Sutariya, and Shanmuganathan Raman. 2024. "LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo." arXiv. https://doi.org/10.48550/arXiv.2409.02716
+Tiwari Ashish, Sutariya Mihir, and Shanmuganathan Raman. 2024. "LIPIDS: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo." arXiv. https://doi.org/10.48550/arXiv.2409.02716
