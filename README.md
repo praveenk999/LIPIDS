@@ -1,5 +1,5 @@
-# LIPID
-**[LIPID: Learning-based Illumination Planning In Discretized(Light) Space for Photomertic Stereo](https://arxiv.org/abs/2409.02716)**,
+# LIPIDs
+**[LIPIDs: Learning-based Illumination Planning In Discretized(Light) Space for Photomertic Stereo](https://arxiv.org/abs/2409.02716)**,
 
 
 This paper addresses the problem of finding best light directions for photometric stereo backbones in discretized light space.
@@ -17,11 +17,11 @@ We are using NRNet inspired from PS-FCN is implemented in [PyTorch](https://pyto
 ## Overview
 We provide:
 - Downloading Datasets
-- Code for training your own LIPID.
+- Code for training your own LIPIDs.
 - Get the best configuration among given finite options.
 
 ## Prepare Dataset for training
-We are using Blobby and Sculpture dataset to train LIPID. You can download it from [PS_FCN](https://github.com/guanyingc/PS-FCN). Place data under `./data/datasets/`.
+We are using Blobby and Sculpture dataset to train LIPIDs. You can download it from [PS_FCN](https://github.com/guanyingc/PS-FCN). Place data under `./data/datasets/`.
 
 ## Training
 Run below command to train your model.
@@ -41,4 +41,4 @@ python get_configs.py {path to your trained model}
 ## Citation
 If you find this project useful please cite:
 
-Tiwari Ashish, Sutariya Mihir, and Shanmuganathan Raman. 2024. "LIPID: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo." arXiv. https://doi.org/10.48550/arXiv.2409.02716
+Tiwari Ashish, Sutariya Mihir, and Shanmuganathan Raman. 2024. "LIPIDs: Learning-based Illumination Planning In Discretized (Light) Space for Photometric Stereo." arXiv. https://doi.org/10.48550/arXiv.2409.02716
